@@ -1,0 +1,34 @@
+*, p {
+    font-size: 36px;
+    color: black;
+  }
+  
+  h1.hola {
+    color: red;
+    font-family: roboto; 
+    text-transform:  uppercase;
+    
+  }
+  
+  img.lafoto {
+    height: 5em;
+    border-radius: 1em;
+  /*   display: block; */
+    margin: 1rem;
+    box-shadow: 1em 1em 1em grey;
+  }
+  
+  .section1 {
+    background: yellow;
+    border-radius: 2em 0 2em  0;
+  }
+  
+  .section2 {
+    background: pink;
+    
+    border-radius: 0 2em 0 2em ;
+  }
+  
+  .section1, .section2 {
+    padding: 1em;
+  }
